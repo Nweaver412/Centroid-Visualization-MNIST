@@ -6,7 +6,7 @@
 
 Digit classification with K-Means clustering
 
-Main code file is ```project_code.ipynb```
+Main code file is ```research/main.ipynb```
 
 ### Environment Setup 
 ```
