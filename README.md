@@ -17,6 +17,7 @@ pip install -r requirements.txt
 
 ###  Write-Up
 Google Doc: https://docs.google.com/document/d/1jfs_Y3a3PV33UePfLRl7O0zu-oGrzLDcF12To9LohM0/edit
+[PDF](./assets/WriteUp.pdf)
 
 ### Presentation
 
