@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 The complete project write up is compiled in a PDF format. You can access it by clicking the link below:
 
-[Write-up PDF](./assets/WriteUp.pdf) | [Write-up Link](https://docs.google.com/document/d/1jfs_Y3a3PV33UePfLRl7O0zu-oGrzLDcF12To9LohM0/edit)
+[Write-up PDF](./assets/4022%20Project%20Write-up.pdf) | [Write-up Link](https://docs.google.com/document/d/1jfs_Y3a3PV33UePfLRl7O0zu-oGrzLDcF12To9LohM0/edit)
 
 ### Presentation
 
