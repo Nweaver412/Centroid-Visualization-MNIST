@@ -1,4 +1,4 @@
-# Centroids Visualizations as Internal Representations of Image Data
+# Centroids as Internal Representations of Image Data
 
 <div align="center">
     <img src="./assets/mnist.png" alt="plts"/>
