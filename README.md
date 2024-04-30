@@ -5,8 +5,6 @@
     <img src="./assets/fmnist2.png" alt="plts"/>
 </div>
 
-<br/>
-
 ### Summary
 
 Think of a green apple.
