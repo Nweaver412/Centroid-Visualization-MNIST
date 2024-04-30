@@ -10,7 +10,7 @@ Pretty cool huh? It also turns out that its quite simple to really peek inside o
 
 <img src="./assets/fmnist2.png" alt="plts"/>
 
-In order to further test out our method, we tried used [Fashion-MNIST](https://en.wikipedia.org/wiki/Fashion_MNIST). Notice how there are clearly identifiable and unique reprentations for boots, sneakers, and shoes. These initial findings show that clustering algorithms can hold visual concepts inside of their centroids, and suggest further research into unsupervised methods for data representations.
+In order to further test out our method, we tried used [Fashion-MNIST](https://en.wikipedia.org/wiki/Fashion_MNIST). Notice how there are clearly identifiable and unique reprentations for boots, sneakers, and shoes. These initial findings show that clustering algorithms can hold visual concepts inside of their centroids, and suggest further research into unsupervised clustering methods for data representations.
 
 ## Paper
 The complete project write up is compiled in a PDF format as well as a Google Doc. You can access either of these by clicking the link below:
