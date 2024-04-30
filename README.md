@@ -5,8 +5,6 @@
     <img src="./assets/fmnist2.png" alt="plts"/>
 </div>
 
-### Summary
-
 Think of a green apple.
 
 Now think of a fluffy kitten.
