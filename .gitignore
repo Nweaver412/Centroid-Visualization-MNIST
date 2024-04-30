@@ -1,3 +1,5 @@
 venv
 .git
 .DS_Store
+.ipynb_checkpoints
+research/.ipynb_checkpoints/main-checkpoint.ipynb
